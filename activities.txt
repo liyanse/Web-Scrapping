@@ -1,0 +1,12 @@
+0	0	0
+https://hotelbars.guide/diani-beach/	403 Forbidden	"
+
+403 Forbidden
+
+Forbidden
+You don't have permission to access /diani-beach/
+on this server.
+
+Apache/2.4.7 (Ubuntu) Server at hotelbars.guide Port 80
+
+"
